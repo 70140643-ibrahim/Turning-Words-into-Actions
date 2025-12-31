@@ -1,0 +1,25 @@
+command,intent
+open youtube,open_site
+open google,open_site
+open facebook,open_site
+launch chrome,open_app
+open calculator,open_app
+open code,open_app
+play music,play_music
+start music,play_music
+pause music,stop_music
+stop music,stop_music
+what is the time,tell_time
+tell me time,tell_time
+current time,tell_time
+search wikipedia for python,wiki_search
+wikipedia python,wiki_search
+search wiki tesla,wiki_search
+what is tesla,wiki_search
+system info,system_info
+show system details,system_info
+list directories,list_dirs
+show folders,list_dirs
+exit,exit
+quit,exit
+goodbye,exit
